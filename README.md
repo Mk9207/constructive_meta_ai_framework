@@ -9,7 +9,3 @@ It integrates layered abstraction, self-reflective logic, and AI-collaborative i
 - Recursive constructive modeling  
 - AI-assistive metacognition loop  
 - Cognitive abstraction mechanisms  
-
-## License
-
-MIT License
